@@ -1,7 +1,7 @@
 # OFX2CSV
-## Generates CSV files from OFX files. 
+## Generates CSV files from OFX or QFX files. 
 
-This works with the Wealthfront OFX export. It will generate two files for each input file: one for transactions and one for positions. 
+This works with the Wealthfront QFX export. It will generate two files for each input file: one for transactions and one for positions. 
 
 It currently only supports one account per file.
 
