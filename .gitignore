@@ -1,0 +1,17 @@
+*.csv
+*.CSV
+*.QFX
+*.qfx
+*__pycache__
+*/.DS_Store
+*/.git/*
+*/.gitmodules
+*/.hg/*
+*/.hgignore
+*/.hgtags
+*/.idea/*
+*/.project
+*/.pydevproject
+*/.settings/*
+*.vscode
+*/.vscode-

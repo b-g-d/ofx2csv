@@ -1,0 +1,5 @@
+beautifulsoup4==4.11.2
+lxml==4.9.2
+ofxparse==0.21
+six==1.16.0
+soupsieve==2.4
